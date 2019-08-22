@@ -22,10 +22,11 @@
 
 <h4> Tracking Page Views</h4>
 
-1.  Tags >> New >> Tag Configuration
+1.  Tags >> New >> Tag Configuration (click to edit)
 2.  Select Google Analytics: Universal Analytics
 3.  Track Type: Select Page View
-4.  Under Triggering and select All Pages
-5.  Click Save
+4.  Google Analytics Settings >> New Variable: Enter Tracking ID
+5.  Triggering (click to edit) 
+6.  Select All Pages
 
 
