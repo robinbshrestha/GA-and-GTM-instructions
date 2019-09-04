@@ -1,15 +1,17 @@
 
-<h1> Setting up Google Analytics and Google Tag Manager</h1>
+<h1>Google Analytics and Google Tag Manager</h1>
 
-# Table of Contents
-1. [Setting up Google Analytics](#ga)
-2. [Creating a Container in Google Tag Manager](#container)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+## Table of Contents
+* [Setting up Google Analytics](#ga)
+* [Creating a Container in Google Tag Manager](#container)
+* [Basic Tag and Trigger Implementation](#pageviews)
+* [Adding a Tag with Custom HTML](#customhtml)
+* [Adding a Tag with Custom a Image URL](#customimg)
+* [Testing your Tag](#testing)
 
 
 
-<h2 name="ga"> Google Analytics</h2>
+<h2 name="ga">Google Analytics</h2>
 
 1.  Set up a GA account by navigating to https://analytics.google.com and clicking sign up.
 
@@ -28,9 +30,9 @@
     <img src="9.png">
 
 
-<h2> Google Tag Manager</h2>
+<h2 name="container">Google Tag Manager</h2>
 
-<h3 name="container"> Creating a Container </h3>
+<h3>Creating a Container</h3>
 
 1.  Navigate to https://tagmanager.google.com
 
@@ -46,7 +48,7 @@
 
     <img src="3.png">
 
-<h3> Adding a Tag to Track Page Views </h3>
+<h3 name="pageviews">Adding a Tag to Track Page Views</h3>
 
 1.  Click 'Add a new tag'
 
@@ -80,13 +82,15 @@
 
 8.  Click save
 
-<h2> Finalizing Setup </h2>
+<h2 name="testing">Testing Your Tag</h2>
 
-1.  Once finished, click preview to ensure the tag is firing properly.
+1.  Once finished implementing the tag and trigger, click preview to simulate implementation.
 
     <img src = 11.png>
 
-2.  If satisfied, click submit, then enter a version name and version description and finally click Publish.
+2.  You can verify your tag is firing properly utilizing the Chrome developer tools console tab, network tab, or GTM Debugger extension depending on the type of implementation used.
+
+3.  Once satisfied, click submit, then enter a version name and version description and finally click Publish.
 
     <img src = 10.png>
 
@@ -94,7 +98,7 @@
 
     <img src = 12.png>
 
-<h3> Adding a Tag With Custom HTML </h3>
+<h3 name="customhtml"> Adding a Tag With Custom HTML </h3>
 
 1.  Click 'Add a new tag'
 
@@ -117,7 +121,7 @@
     * Tag firing options - Once per event vs Once per page <br>   
     <img src="18.png" width="60%">
 
-<h3> Adding a Tag With Custom Image URL </h3>
+<h3 name="customimg"> Adding a Tag With Custom Image URL </h3>
 
 1.  Click 'Add a new tag'
 
