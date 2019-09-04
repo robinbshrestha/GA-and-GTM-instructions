@@ -1,5 +1,5 @@
 
-<h1>Google Analytics and Google Tag Manager</h1>
+<h1 name="top">Google Analytics and Google Tag Manager</h1>
 
 ## Table of Contents
 * [Setting up Google Analytics](#ga)
@@ -30,6 +30,7 @@
 
     <img src="9.png">
 
+* [Back to the Top](#top)
 
 <h2 name="container">Google Tag Manager</h2>
 
@@ -48,6 +49,8 @@
 4.  You will be prompted with a modal to insert code to the head and body of the page you will be integrating the tag.  
 
     <img src="3.png">
+
+* [Back to the Top](#top)
 
 <h3 name="pageviews">Adding a Tag to Track Page Views</h3>
 
@@ -83,6 +86,8 @@
 
 8.  Click save
 
+* [Back to the Top](#top)
+
 <h2 name="testing">Testing Your Tag</h2>
 
 1.  Once finished implementing the tag and trigger, click preview to simulate implementation.
@@ -98,6 +103,8 @@
 3.  Google Tag Manager will direct you to the Versions tab with a summary of changes
 
     <img src = 12.png>
+
+* [Back to the Top](#top)
 
 <h3 name="customhtml"> Adding a Tag With Custom HTML </h3>
 
@@ -122,6 +129,8 @@
     * Tag firing options - Once per event vs Once per page <br>   
     <img src="18.png" width="60%">
 
+* [Back to the Top](#top)
+
 <h3 name="customimg">Adding a Tag With Custom Image URL </h3>
 
 1.  Click 'Add a new tag'
@@ -140,6 +149,8 @@
 
     <img src="19.png">
 
+* [Back to the Top](#top)
+
 <h3 name="customtrigger">Adding a custom trigger</h3>
     
 1.  Click the plus sign at the upper right hand corner
@@ -153,3 +164,5 @@
 3.  Choose the trigger type you would like to implement
 
     <img src="22.png" width="40%">
+
+* [Back to the Top](#top)
