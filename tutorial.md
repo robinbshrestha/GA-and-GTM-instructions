@@ -142,8 +142,6 @@
 
 <h3 name="customtrigger">Adding a custom trigger</h3>
     
-
-
 1.  Click the plus sign at the upper right hand corner
 
     <img src="20.png">
