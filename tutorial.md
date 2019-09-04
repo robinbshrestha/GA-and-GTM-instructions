@@ -7,6 +7,7 @@
 * [Basic Tag and Trigger Implementation](#pageviews)
 * [Adding a Tag with Custom HTML](#customhtml)
 * [Adding a Tag with Custom a Image URL](#customimg)
+* [Adding a Custom Trigger](#customtrigger)
 * [Testing your Tag](#testing)
 
 
@@ -121,7 +122,7 @@
     * Tag firing options - Once per event vs Once per page <br>   
     <img src="18.png" width="60%">
 
-<h3 name="customimg"> Adding a Tag With Custom Image URL </h3>
+<h3 name="customimg">Adding a Tag With Custom Image URL </h3>
 
 1.  Click 'Add a new tag'
 
@@ -139,7 +140,7 @@
 
     <img src="19.png">
 
-<h3> Adding a custom trigger </h3>
+<h3 name="customtrigger">Adding a custom trigger</h3>
     
 
 
