@@ -1,7 +1,15 @@
 
 <h1> Setting up Google Analytics and Google Tag Manager</h1>
 
-<h2> Google Analytics</h2>
+# Table of Contents
+1. [Setting up Google Analytics](#ga)
+2. [Creating a Container in Google Tag Manager](#container)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
+
+
+<h2 name="ga"> Google Analytics</h2>
 
 1.  Set up a GA account by navigating to https://analytics.google.com and clicking sign up.
 
@@ -22,7 +30,7 @@
 
 <h2> Google Tag Manager</h2>
 
-<h3> Creating a Container </h3>
+<h3 name="container"> Creating a Container </h3>
 
 1.  Navigate to https://tagmanager.google.com
 
